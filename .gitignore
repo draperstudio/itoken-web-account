@@ -1,1 +1,6 @@
 target
+package-lock.json
+node_modules
+itoken-web-account.iml
+src/main/resources/application-db.yml
+*.rdb
